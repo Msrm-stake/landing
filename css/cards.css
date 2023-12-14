@@ -1,0 +1,86 @@
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.web-development {
+  position: relative;
+  max-width: 250px; /* Adjust the maximum width of the card */
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.web-development:hover {
+  transform: scale(1.05);
+}
+
+.web-development img {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  background-size: cover;
+}
+
+.web-development-text {
+  font-size: 13px;
+}
+
+/* 2nd card */
+
+.data-science {
+  position: relative;
+  max-width: 250px; /* Adjust the maximum width of the card */
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.data-science:hover {
+  transform: scale(1.05);
+}
+
+.data-science img {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  background-size: cover;
+}
+
+.data-science-text {
+  font-size: 13px;
+}
+
+/* 3rd card */
+
+.data-analytics {
+  position: relative;
+  max-width: 250px; /* Adjust the maximum width of the card */
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.data-analytics:hover {
+  transform: scale(1.05);
+}
+
+.data-analytics img {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  background-size: cover;
+}
+
+.data-analytics-text {
+  font-size: 13px;
+}
+
+
+
